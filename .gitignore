@@ -1,0 +1,12 @@
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+chroma_db/
+chat_history.json
+.streamlit/secrets.toml
+.env
+chat_history.json
+__pycache__/
+*.pyc
